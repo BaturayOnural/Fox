@@ -21,6 +21,8 @@ import java.io.File;
  * Image Source:        Desktop
  * Output video format: WMV or MP4 depending on a platform 
  * Output file:         Desktop.wmv or Desktop.mp4 depending on a platform
+ * 
+ * @author Serge Piletsky
  */
 public class CaptureDesktop {
    
